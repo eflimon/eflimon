@@ -5,12 +5,11 @@
 </p>
 
 
-## 📝 About me
+## About me 📝
 
 My name is Edgar Fabian Limon from Mexico and I'm quality assurance engineer with over 9 years working experience. I'm a quick learner, strong attention to detail oriented with strong analytical and troubleshooting capabilities. I started as a full manual QA engineer and with the pass of the time I've been learning automation testing. You can find some of my automation work in my repository.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+## <b> Skills</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
 __Manual testing__
 
@@ -44,7 +43,7 @@ __Tools__
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge)   ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20-purple?style=for-the-badge)
    ![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=Jira)   ![Static Badge](https://img.shields.io/badge/Azure%20devops%20-%20blue?style=for-the-badge)   ![Static Badge](https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&labelColor=black)   ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&labelColor=black)
 
-## Connect with me
+## <b>Connect with me</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <a href="mailto:fabian.limon.rodriguez@gmail.com" target="blank"> <img alt="Static Badge" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&labelColor=black"></a>
 <a href="https://www.linkedin.com/in/edgar-fabian-limon-rodriguez-90668648/" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&labelColor=black"></a>
