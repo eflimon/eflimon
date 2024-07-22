@@ -26,13 +26,13 @@ __Automation testing__
 
 __Programming Languages__
 
-![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&labelColor=black)   ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&labelColor=black)   ![Static Badge](https://img.shields.io/badge/C%23-%2300599C?style=for-the-badge&logo=c%23&labelColor=black)   ![Static Badge](https://img.shields.io/badge/Java-%235DACDF?style=for-the-badge&logo=Java&labelColor=black)   ![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
+![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&labelColor=black)    ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&labelColor=black)    ![Static Badge](https://img.shields.io/badge/C%23-%2300599C?style=for-the-badge&logo=c%23&labelColor=black)    ![Static Badge](https://img.shields.io/badge/Java-%235DACDF?style=for-the-badge&logo=Java&labelColor=black)    ![Static Badge](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
 
 
 
 __Frameworks__
 
-![Static Badge](https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=selenium&labelColor=black)   ![Static Badge](https://img.shields.io/badge/WebdriderIO-%23EA5906?style=for-the-badge&logo=webdriverio&labelColor=black)  ![Static Badge](https://img.shields.io/badge/NodeJS-%235FA04E?style=for-the-badge&logo=node.js&labelColor=black)    ![Static Badge](https://img.shields.io/badge/Mocha-%238D6748?style=for-the-badge&logo=mocha&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=selenium&labelColor=black)    ![Static Badge](https://img.shields.io/badge/WebdriderIO-%23EA5906?style=for-the-badge&logo=webdriverio&labelColor=black)   ![Static Badge](https://img.shields.io/badge/NodeJS-%235FA04E?style=for-the-badge&logo=node.js&labelColor=black)     ![Static Badge](https://img.shields.io/badge/Mocha-%238D6748?style=for-the-badge&logo=mocha&labelColor=black)
 
 __Database__
 
@@ -40,8 +40,8 @@ __Database__
 
 __Tools__
 
-![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge)   ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20-purple?style=for-the-badge)
-   ![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=Jira)   ![Static Badge](https://img.shields.io/badge/Azure%20devops%20-%20blue?style=for-the-badge)   ![Static Badge](https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&labelColor=black)   ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge)    ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20-purple?style=for-the-badge) 
+   ![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=Jira)    ![Static Badge](https://img.shields.io/badge/Azure%20devops%20-%20blue?style=for-the-badge)    ![Static Badge](https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&labelColor=black)    ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&labelColor=black)
 
 ## <b>Connect with me</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
