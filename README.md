@@ -7,7 +7,7 @@
 
 ## About me 📝
 
-<p>My name is Edgar Fabian Limon from Mexico and I'm quality assurance engineer with over 9 years working experience. I'm a quick learner, strong attention to detail oriented with strong analytical and troubleshooting capabilities. I started as a full manual QA engineer and with the pass of the time I've been learning automation testing. You can find some of my automation work in my repository.</p>
+<p>My name is Edgar Fabian Limon from Mexico and I'm quality assurance engineer with over 9 years working experience. I'm a quick learner, attention to detail oriented with strong analytical and troubleshooting capabilities. I started as a full manual QA engineer and with the pass of the time I've been learning automation testing. You can find some of my automation work in my repository.</p>
 
 ## <b> Skills</b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
