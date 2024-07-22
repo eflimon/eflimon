@@ -41,7 +41,9 @@ __Database__
 __Tools__
 
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge)    ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20-purple?style=for-the-badge) 
-   ![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=Jira)    ![Static Badge](https://img.shields.io/badge/Azure%20devops%20-%20blue?style=for-the-badge)    ![Static Badge](https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&labelColor=black)    ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&labelColor=black)
+   ![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=Jira)    ![Static Badge](https://img.shields.io/badge/Azure%20devops%20-%20blue?style=for-the-badge)    ![Static Badge](https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&labelColor=black)    ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&labelColor=black)    ![Static Badge](https://img.shields.io/badge/Eclipse-%232C2255?style=for-the-badge&logo=Eclipse&labelColor=black)
+
+
 
 ## <b>Connect with me</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
