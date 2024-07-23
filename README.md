@@ -13,11 +13,11 @@
 
 __Manual testing__
 
-- Functional testing
-- Test cases design
-- Test analysis
-- Test execution (regression testing, re testing,)
-- Defects follow up
+- Functional testing.
+- Test cases design.
+- Test analysis.
+- Test execution (regression test, re test, somoke test, sanity test).
+- Defects follow up.
 
 __Automation testing__
 
